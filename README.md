@@ -70,4 +70,4 @@ Foi desenvolvido um módulo de assistente financeiro com o objetivo de auxiliar 
 As mensagens foram elaboradas utilizando linguagem simples, evitando termos técnicos e financeiros complexos, tornando o sistema mais acessível para diferentes perfis de usuários.
 
 <br></br>
-<div style="text-align: center; color: rgba(122, 122, 122, 0.98)">Desenvolvido com ♡ por Karoliny Rufino.</div>
+<p align="center">Desenvolvido com ♡ por Karoliny Rufino.</p>
